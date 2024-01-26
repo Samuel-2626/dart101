@@ -11,7 +11,7 @@ void main() {
 
   print(planets);
 
-  print(planets["second"])
+  print(planets["second"]);
 
   print(planets.containsKey("first"));
   print(planets.containsValue("earth"));
